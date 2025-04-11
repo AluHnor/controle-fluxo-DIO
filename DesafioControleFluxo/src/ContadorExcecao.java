@@ -1,4 +1,4 @@
-       public class ContadorExcessao {
+       public class ContadorExcecao {
         public static void main(String[] args) {
             
             int parametroUm = 45;
